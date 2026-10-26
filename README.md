@@ -25,11 +25,11 @@
 
 | 你想做什么 | 项目 | Star |
 | --- | --- | --- |
-| 中文语音 AI 模拟面试（在线可用） | [欧八面试陪练 ai-interviewer](https://github.com/ouxxyy/ai-interviewer) | ![](https://img.shields.io/github/stars/ouxxyy/ai-interviewer?style=social) |
-| 简历与 JD 匹配、简历优化 | [简历优化大师 jd-resume-match](https://github.com/ouxxyy/jd-resume-match) | ![](https://img.shields.io/github/stars/ouxxyy/jd-resume-match?style=social) |
-| 按条件筛选招聘岗位 | [Job Search](https://github.com/ouxxyy/job-search) | ![](https://img.shields.io/github/stars/ouxxyy/job-search?style=social) |
-| 入职前查公司、Offer 前核实 | [Sherlock Company](https://github.com/ouxxyy/sherlock-company) | ![](https://img.shields.io/github/stars/ouxxyy/sherlock-company?style=social) |
-| 工作任务 AI 替代风险自评 | [MBAI](https://github.com/ouxxyy/mbai) | ![](https://img.shields.io/github/stars/ouxxyy/mbai?style=social) |
+| 按条件筛选招聘岗位 | [AI岗位搜索大师 job-search](https://github.com/ouxxyy/job-search) | ![](https://img.shields.io/github/stars/ouxxyy/job-search?style=social) |
+| 简历与 JD 匹配、简历优化 | [AI简历优化大师 jd-resume-match](https://github.com/ouxxyy/jd-resume-match) | ![](https://img.shields.io/github/stars/ouxxyy/jd-resume-match?style=social) |
+| 中文语音 AI 模拟面试（在线可用） | [AI面试大师 ai-interviewer](https://github.com/ouxxyy/ai-interviewer) | ![](https://img.shields.io/github/stars/ouxxyy/ai-interviewer?style=social) |
+| 入职前查公司、Offer 前核实 | [公司调查大师 sherlock-company](https://github.com/ouxxyy/sherlock-company) | ![](https://img.shields.io/github/stars/ouxxyy/sherlock-company?style=social) |
+| 工作任务 AI 替代风险自评 | [AI转型大师 mbai](https://github.com/ouxxyy/mbai) | ![](https://img.shields.io/github/stars/ouxxyy/mbai?style=social) |
 | AI 视频分镜、可灵／即梦提示词 | [Storyboard Scavenger](https://github.com/ouxxyy/storyboard-scavenger) | ![](https://img.shields.io/github/stars/ouxxyy/storyboard-scavenger?style=social) |
 | Mystery Method 思维模型 Skill | [mystery-skill](https://github.com/ouxxyy/mystery-skill) | ![](https://img.shields.io/github/stars/ouxxyy/mystery-skill?style=social) |
 | 旅行照片做成离线翻页画册 | [重拍画册 travel-art-album-skill](https://github.com/ouxxyy/travel-art-album-skill) | ![](https://img.shields.io/github/stars/ouxxyy/travel-art-album-skill?style=social) |
@@ -41,10 +41,10 @@
 
 ## 🚀 准备跳槽？按这个顺序用
 
-1. **Job Search**：整理岗位短名单
-2. **简历优化大师**：对照 JD 找证据缺口，调整简历
-3. **欧八面试陪练**：语音练经历面试，看原话点评，再重答对比
-4. **Sherlock Company**：接 Offer 前列出要核实的问题
+1. **AI岗位搜索大师**：整理岗位短名单
+2. **AI简历优化大师**：对照 JD 找证据缺口，调整简历
+3. **AI面试大师**：语音练经历面试，看原话点评，再重答对比
+4. **公司调查大师**：接 Offer 前列出要核实的问题
 
 ## 📮 在其他平台找我
 
