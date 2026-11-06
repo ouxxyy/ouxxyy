@@ -1,5 +1,11 @@
 # 你好，我是欧八同学 👋
 
+> 🚀 **旗舰套件入口：[ouxxyy/ouba-classmate](https://github.com/ouxxyy/ouba-classmate)（一行安装全部中文求职与创作 Agent Skills + 查看《中文 AI 求职 Skill 公开横评》）**
+> ```bash
+> claude plugin marketplace add ouxxyy/ouba-classmate
+> npx skills add ouxxyy/ouba-classmate
+> ```
+
 **9 年网易、搜狐大厂产品｜双非普通人，跳槽换行 7 次，涨薪 10 倍｜帮上百人做过简历和面试优化。**
 
 我在用 AI 做一件事：帮想跳槽涨薪的互联网人，把职业价值产品化，重新设计「职业定位 × AI 杠杆 × 涨薪方法」。下面这些开源项目，都是我做这件事时顺手造出来的工具。
