@@ -1,9 +1,15 @@
 # 你好，我是欧八同学 👋
 
-> 🚀 **旗舰套件入口：[ouxxyy/ouba-classmate](https://github.com/ouxxyy/ouba-classmate)（一行安装全部中文求职与创作 Agent Skills + 查看《中文 AI 求职 Skill 公开横评》）**
+> 🚀 **旗舰套件入口：[ouxxyy/ouba-classmate](https://github.com/ouxxyy/ouba-classmate)** [![GitHub Repo stars](https://img.shields.io/github/stars/ouxxyy/ouba-classmate?style=flat-square&logo=github&label=ouba-classmate%20Stars&color=0284c7)](https://github.com/ouxxyy/ouba-classmate)
+> - 🛡️ **免安装求职防身与自测**：[《2026 求职防身情报库：24道大厂深挖母题 × JD黑话解码 × 接Offer背调18问》](https://github.com/ouxxyy/ouba-classmate/blob/main/radar/README.md) · [⚡ 30秒在线职业战力诊断小票](https://ouxxyy.github.io/ouba-classmate/#career-radar) · [《12仓中文 AI 求职 Skill 公开横评》](https://github.com/ouxxyy/ouba-classmate/tree/main/benchmark)
+> - 🎙️ **在线 AI 语音面试陪练（免安装 Web 版）**：[interview.redboook.cn](https://interview.redboook.cn/)
 > ```bash
+> # 一行安装全部中文求职与创作 Agent Skills
 > claude plugin marketplace add ouxxyy/ouba-classmate
 > npx skills add ouxxyy/ouba-classmate
+>
+> # 觉得有用？在终端 1 秒为开源主仓点亮一颗 Star
+> gh api -X PUT /user/starred/ouxxyy/ouba-classmate
 > ```
 
 **9 年网易、搜狐大厂产品｜双非普通人，跳槽换行 7 次，涨薪 10 倍｜帮上百人做过简历和面试优化。**
@@ -31,9 +37,10 @@
 
 | 你想做什么 | 项目 | Star |
 | --- | --- | --- |
+| **【旗舰合集】一行安装全部求职/创作 Skill + 2026防身情报库 + 12仓横评** | **[ouba-classmate 旗舰主仓](https://github.com/ouxxyy/ouba-classmate)** · **[30秒在线职业战力诊断](https://ouxxyy.github.io/ouba-classmate/#career-radar)** | ![](https://img.shields.io/github/stars/ouxxyy/ouba-classmate?style=social) |
 | 按条件筛选招聘岗位 | [AI岗位搜索大师 job-search](https://github.com/ouxxyy/job-search) | ![](https://img.shields.io/github/stars/ouxxyy/job-search?style=social) |
 | 简历与 JD 匹配、简历优化 | [AI简历优化大师 jd-resume-match](https://github.com/ouxxyy/jd-resume-match) | ![](https://img.shields.io/github/stars/ouxxyy/jd-resume-match?style=social) |
-| 中文语音 AI 模拟面试（在线可用） | [AI面试大师 ai-interviewer](https://github.com/ouxxyy/ai-interviewer) | ![](https://img.shields.io/github/stars/ouxxyy/ai-interviewer?style=social) |
+| 中文语音 AI 模拟面试（在线可用） | [欧八面试陪练在线站](https://interview.redboook.cn/) · [ai-interviewer](https://github.com/ouxxyy/ai-interviewer) | ![](https://img.shields.io/github/stars/ouxxyy/ai-interviewer?style=social) |
 | 入职前查公司、Offer 前核实 | [公司调查大师 sherlock-company](https://github.com/ouxxyy/sherlock-company) | ![](https://img.shields.io/github/stars/ouxxyy/sherlock-company?style=social) |
 | 工作任务 AI 替代风险自评 | [AI转型大师 mbai](https://github.com/ouxxyy/mbai) | ![](https://img.shields.io/github/stars/ouxxyy/mbai?style=social) |
 | AI 视频分镜、可灵／即梦提示词 | [Storyboard Scavenger](https://github.com/ouxxyy/storyboard-scavenger) | ![](https://img.shields.io/github/stars/ouxxyy/storyboard-scavenger?style=social) |
