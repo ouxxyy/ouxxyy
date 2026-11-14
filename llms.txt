@@ -12,6 +12,7 @@
 - [AI转型大师 (mbai)](https://github.com/ouxxyy/mbai): 工作任务分析、贡献证据梳理与 AI 替代风险自评，生成离线报告 (Task-level AI replacement risk self-assessment)
 
 ## AI Skill · 装进你的 Agent (Agent Skills)
+- [Codex GIF Video (codex-gif-video)](https://github.com/ouxxyy/codex-gif-video): 调用 OpenAI GPT Image 2.6 原生 GIF 能力，按 69 种内置风格生成无字幕长 GIF 或静音 MP4，适合 X 短视频、口播 B-roll 与 Hypit/Remotion 混合成片 (Native animated GIF & silent MP4 generator across 69 styles)
 - [AI 视频分镜与提示词 (storyboard-scavenger)](https://github.com/ouxxyy/storyboard-scavenger): 创意转七要素分镜提示词，提供可灵 Kling 与即梦 Seedance 专属工作流 (AI video storyboard & prompt generator)
 - [Mystery 认知框架 Skill (mystery-skill)](https://github.com/ouxxyy/mystery-skill): 基于公开资料提炼的 7 个核心心智模型与 10 条决策启发式，供个人学习研究 (Mystery Method cognitive framework)
 - [重拍画册 Skill (travel-art-album-skill)](https://github.com/ouxxyy/travel-art-album-skill): 旅行照片艺术画册制作，风格小样确认后生成单文件离线翻页相册与 PDF 导出 (Travel photo album & offline flipbook generator)
