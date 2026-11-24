@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="20" role="img" aria-label="travel-art-album-skill: 3 GitHub stars">
+  <title>travel-art-album-skill: 3 GitHub stars</title>
+  <g shape-rendering="crispEdges">
+    <rect width="45" height="20" fill="#555"/>
+    <rect x="45" width="17" height="20" fill="#9a3412"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision">
+    <text x="22.5" y="14" textLength="35">album</text>
+    <text x="53.5" y="14" textLength="7">3</text>
+  </g>
+</svg>

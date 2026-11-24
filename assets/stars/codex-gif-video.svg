@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="28" role="img" aria-label="codex-gif-video: 0 GitHub stars">
+  <title>codex-gif-video: 0 GitHub stars</title>
+  <g shape-rendering="crispEdges">
+    <rect width="137.75" height="28" fill="#555"/>
+    <rect x="137.75" width="32.25" height="28" fill="#d4b064"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" text-rendering="geometricPrecision">
+    <text x="68.875" y="17.5" textLength="113.75">CODEX-GIF-VIDEO</text>
+    <text x="153.875" y="17.5" textLength="8.25" fill="#333" font-weight="bold">0</text>
+  </g>
+</svg>

@@ -25,7 +25,7 @@
 
 <a href="https://ouxxyy.github.io/ouba-classmate/#career-radar"><img src="https://img.shields.io/badge/%E2%96%B6_30S_CAREER_RADAR-%E5%9C%A8%E7%BA%BF%E8%AF%8A%E6%96%AD-e85a34?style=for-the-badge" alt="30s Career Radar"></a>
 <a href="https://github.com/ouxxyy/ouba-classmate/tree/main/benchmark"><img src="https://img.shields.io/badge/%E2%96%B6_12--REPO_BENCHMARK-%E7%9C%8B%E6%A8%AA%E8%AF%84-1f2937?style=for-the-badge" alt="12-Repo Benchmark"></a>
-<a href="https://github.com/ouxxyy/ouba-classmate"><img src="https://img.shields.io/github/stars/ouxxyy/ouba-classmate?style=for-the-badge&amp;label=ouba-classmate&amp;color=d4b064" alt="ouba-classmate on GitHub"></a>
+<a href="https://github.com/ouxxyy/ouba-classmate"><img src="assets/stars/ouba-classmate.svg" alt="ouba-classmate on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -37,7 +37,7 @@
 <b>Line-anchored resume vs. JD audit with deterministic rubric scoring, local stdio MCP server, and three tailored outreach greeting drafts.</b> Zero external Python dependencies and 279 unit tests; strictly no fabricated metrics.
 
 <a href="https://ouxxyy.github.io/ouba-classmate/#resume-evidence-checker"><img src="https://img.shields.io/badge/%E2%96%B6_TRY_ONLINE_CHECKER-%E5%9C%A8%E7%BA%BF%E4%BD%93%E6%A3%80-0f294a?style=for-the-badge" alt="Try online checker"></a>
-<a href="https://github.com/ouxxyy/jd-resume-match"><img src="https://img.shields.io/github/stars/ouxxyy/jd-resume-match?style=for-the-badge&amp;label=jd-resume-match&amp;color=d4b064" alt="jd-resume-match on GitHub"></a>
+<a href="https://github.com/ouxxyy/jd-resume-match"><img src="assets/stars/jd-resume-match.svg" alt="jd-resume-match on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -49,7 +49,7 @@
 <b>Chinese realtime voice &amp; text mock interview coach that probes your JD and resume, critiques with verbatim quotes across 5 dimensions, and compares initial vs. retry answers.</b> Available as Web app, Claude Skill, and standalone prompt.
 
 <a href="https://interview.redboook.cn/"><img src="https://img.shields.io/badge/%E2%96%B6_LAUNCH_WEB_APP-%E5%9C%A8%E7%BA%BF%E5%BC%80%E7%BB%83-e85a34?style=for-the-badge" alt="Launch web app"></a>
-<a href="https://github.com/ouxxyy/ai-interviewer"><img src="https://img.shields.io/github/stars/ouxxyy/ai-interviewer?style=for-the-badge&amp;label=ai-interviewer&amp;color=d4b064" alt="ai-interviewer on GitHub"></a>
+<a href="https://github.com/ouxxyy/ai-interviewer"><img src="assets/stars/ai-interviewer.svg" alt="ai-interviewer on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -61,7 +61,7 @@
 <b>Job search Agent Skill across 5 major boards that compiles source-backed job shortlists into offline HTML dashboards, multi-tab Excel sheets, and JSON evidence logs.</b> Unverified fields stay flagged; never auto-applies.
 
 <a href="https://github.com/ouxxyy/job-search#quick-example"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_SAMPLE_REPORT-%E7%9C%8B%E7%A4%BA%E4%BE%8B-0d3b2e?style=for-the-badge" alt="View sample report"></a>
-<a href="https://github.com/ouxxyy/job-search"><img src="https://img.shields.io/github/stars/ouxxyy/job-search?style=for-the-badge&amp;label=job-search&amp;color=d4b064" alt="job-search on GitHub"></a>
+<a href="https://github.com/ouxxyy/job-search"><img src="assets/stars/job-search.svg" alt="job-search on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -73,7 +73,7 @@
 <b>Pre-offer employer research assistant that verifies the actual contracting entity, separates claims into Confirmed / Leads / Conflicting / Unknown, flags three default warning checks, and exports an offline HTML dossier.</b>
 
 <a href="https://github.com/ouxxyy/sherlock-company/tree/main/cases/4399"><img src="https://img.shields.io/badge/%E2%96%B6_READ_CASE_FILE-%E7%9C%8B%E8%B0%83%E6%9F%A5%E6%A1%A3%E6%A1%88-9a3412?style=for-the-badge" alt="Read case file"></a>
-<a href="https://github.com/ouxxyy/sherlock-company"><img src="https://img.shields.io/github/stars/ouxxyy/sherlock-company?style=for-the-badge&amp;label=sherlock-company&amp;color=d4b064" alt="sherlock-company on GitHub"></a>
+<a href="https://github.com/ouxxyy/sherlock-company"><img src="assets/stars/sherlock-company.svg" alt="sherlock-company on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -85,7 +85,7 @@
 <b>Generate clean, text-free multi-shot GIFs and silent MP4 clips via OpenAI GPT Image 2.6 across 69 built-in styles with character consistency — ideal for X posts, voiceover B-roll, and Hypit / Remotion pipelines.</b>
 
 <a href="https://github.com/ouxxyy/codex-gif-video#demo"><img src="https://img.shields.io/badge/%E2%96%B6_69_STYLE_GALLERY-%E7%9C%8B%E5%8A%A8%E5%9B%BE%E5%B0%8F%E6%A0%B7-1e3a8a?style=for-the-badge" alt="69 Style Gallery"></a>
-<a href="https://github.com/ouxxyy/codex-gif-video"><img src="https://img.shields.io/github/stars/ouxxyy/codex-gif-video?style=for-the-badge&amp;label=codex-gif-video&amp;color=d4b064" alt="codex-gif-video on GitHub"></a>
+<a href="https://github.com/ouxxyy/codex-gif-video"><img src="assets/stars/codex-gif-video.svg" alt="codex-gif-video on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -97,7 +97,7 @@
 <b>Structured AI video storyboarding skill converting rough ideas into environment anchors, 7-element shot specs, and 38 camera movements tailored for Kling, Seedance, Veo, and Sora.</b>
 
 <a href="https://github.com/ouxxyy/storyboard-scavenger/blob/main/templates/storyboard-template.md"><img src="https://img.shields.io/badge/%E2%96%B6_STORYBOARD_TEMPLATES-%E7%9C%8B%E5%88%86%E9%95%9C%E6%A8%A1%E6%9D%BF-143442?style=for-the-badge" alt="Storyboard templates"></a>
-<a href="https://github.com/ouxxyy/storyboard-scavenger"><img src="https://img.shields.io/github/stars/ouxxyy/storyboard-scavenger?style=for-the-badge&amp;label=storyboard-scavenger&amp;color=d4b064" alt="storyboard-scavenger on GitHub"></a>
+<a href="https://github.com/ouxxyy/storyboard-scavenger"><img src="assets/stars/storyboard-scavenger.svg" alt="storyboard-scavenger on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -109,7 +109,7 @@
 <b>Reverse-engineered cognitive framework distilling 7 mental models and 10 If-Then heuristics into practical playbooks for interview frame control, salary negotiation, and managing up (non-commercial study).</b>
 
 <a href="https://github.com/ouxxyy/mystery-skill/tree/main/workplace"><img src="https://img.shields.io/badge/%E2%96%B6_WORKPLACE_PLAYBOOKS-%E8%81%8C%E5%9C%BA%E4%B8%93%E7%89%88-2d1424?style=for-the-badge" alt="Workplace playbooks"></a>
-<a href="https://github.com/ouxxyy/mystery-skill"><img src="https://img.shields.io/github/stars/ouxxyy/mystery-skill?style=for-the-badge&amp;label=mystery-skill&amp;color=d4b064" alt="mystery-skill on GitHub"></a>
+<a href="https://github.com/ouxxyy/mystery-skill"><img src="assets/stars/mystery-skill.svg" alt="mystery-skill on GitHub"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -117,10 +117,10 @@
 
 | 项目 · Repo | 中文说明 | English Summary | Star |
 | --- | --- | --- | --- |
-| **[mbai](https://github.com/ouxxyy/mbai)** | **AI 转型大师**：任务级拆解工作自动化空间、个人贡献与 7 天求职作品证据（CC BY-NC 4.0） | Task-level AI resilience assessment turning daily work into provable interview artifacts | ![](https://img.shields.io/github/stars/ouxxyy/mbai?style=flat-square&amp;label=mbai&amp;color=2e1f5e) |
-| **[travel-art-album-skill](https://github.com/ouxxyy/travel-art-album-skill)** | **重拍画册**：10–30 张照片先出 4 种风格小样确认，打包单文件离线 HTML 翻页相册 | Preview 4 art styles on travel photos, then bundle into a single-file offline flipbook | ![](https://img.shields.io/github/stars/ouxxyy/travel-art-album-skill?style=flat-square&amp;label=album&amp;color=9a3412) |
-| **[Attention](https://github.com/ouxxyy/Attention)** | **本地专注力仪表盘**：读取 ActivityWatch 桌面数据，分析任务切换、分心扣分与 25m+ 心流时段 | Local-first ActivityWatch dashboard tracking distraction scores, switches &amp; deep flow | ![](https://img.shields.io/github/stars/ouxxyy/Attention?style=flat-square&amp;label=Attention&amp;color=172230) |
-| **[postapp](https://github.com/ouxxyy/postapp)** | **姿势企鹅**：本地 MoveNet 姿态检测的 Chrome 坐姿提醒插件，图像不离开浏览器 | On-device MoveNet Chrome MV3 posture reminder with zero cloud upload | ![](https://img.shields.io/github/stars/ouxxyy/postapp?style=flat-square&amp;label=postapp&amp;color=0369a1) |
+| **[mbai](https://github.com/ouxxyy/mbai)** | **AI 转型大师**：任务级拆解工作自动化空间、个人贡献与 7 天求职作品证据（CC BY-NC 4.0） | Task-level AI resilience assessment turning daily work into provable interview artifacts | [![mbai on GitHub](assets/stars/mbai.svg)](https://github.com/ouxxyy/mbai) |
+| **[travel-art-album-skill](https://github.com/ouxxyy/travel-art-album-skill)** | **重拍画册**：10–30 张照片先出 4 种风格小样确认，打包单文件离线 HTML 翻页相册 | Preview 4 art styles on travel photos, then bundle into a single-file offline flipbook | [![travel-art-album-skill on GitHub](assets/stars/travel-art-album-skill.svg)](https://github.com/ouxxyy/travel-art-album-skill) |
+| **[Attention](https://github.com/ouxxyy/Attention)** | **本地专注力仪表盘**：读取 ActivityWatch 桌面数据，分析任务切换、分心扣分与 25m+ 心流时段 | Local-first ActivityWatch dashboard tracking distraction scores, switches &amp; deep flow | [![Attention on GitHub](assets/stars/Attention.svg)](https://github.com/ouxxyy/Attention) |
+| **[postapp](https://github.com/ouxxyy/postapp)** | **姿势企鹅**：本地 MoveNet 姿态检测的 Chrome 坐姿提醒插件，图像不离开浏览器 | On-device MoveNet Chrome MV3 posture reminder with zero cloud upload | [![postapp on GitHub](assets/stars/postapp.svg)](https://github.com/ouxxyy/postapp) |
 
 > **🚀 准备跳槽涨薪？建议按这四步串联使用**：① [**job-search**](https://github.com/ouxxyy/job-search) 整理来源清晰的岗位短名单 → ② [**jd-resume-match**](https://github.com/ouxxyy/jd-resume-match) 对照 JD 找简历证据缺口与算分 → ③ [**ai-interviewer**](https://github.com/ouxxyy/ai-interviewer) 语音练经历面试并对比重答 → ④ [**sherlock-company**](https://github.com/ouxxyy/sherlock-company) 接 Offer 前穿透查公司并列核实清单。完整目录与机器可读清单见 **[ouxxyy/ouba-classmate](https://github.com/ouxxyy/ouba-classmate)**（[llms.txt](llms.txt)）。
 

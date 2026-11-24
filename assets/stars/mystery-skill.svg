@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160.75" height="28" role="img" aria-label="mystery-skill: 11 GitHub stars">
+  <title>mystery-skill: 11 GitHub stars</title>
+  <g shape-rendering="crispEdges">
+    <rect width="120.25" height="28" fill="#555"/>
+    <rect x="120.25" width="40.5" height="28" fill="#d4b064"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" text-rendering="geometricPrecision">
+    <text x="60.125" y="17.5" textLength="96.25">MYSTERY-SKILL</text>
+    <text x="140.5" y="17.5" textLength="16.5" fill="#333" font-weight="bold">11</text>
+  </g>
+</svg>

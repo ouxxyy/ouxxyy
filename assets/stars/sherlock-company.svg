@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185.25" height="28" role="img" aria-label="sherlock-company: 1 GitHub stars">
+  <title>sherlock-company: 1 GitHub stars</title>
+  <g shape-rendering="crispEdges">
+    <rect width="153" height="28" fill="#555"/>
+    <rect x="153" width="32.25" height="28" fill="#d4b064"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" text-rendering="geometricPrecision">
+    <text x="76.5" y="17.5" textLength="129">SHERLOCK-COMPANY</text>
+    <text x="169.125" y="17.5" textLength="8.25" fill="#333" font-weight="bold">1</text>
+  </g>
+</svg>

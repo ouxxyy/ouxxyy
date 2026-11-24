@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="28" role="img" aria-label="ouba-classmate: 82 GitHub stars">
+  <title>ouba-classmate: 82 GitHub stars</title>
+  <g shape-rendering="crispEdges">
+    <rect width="135.5" height="28" fill="#555"/>
+    <rect x="135.5" width="40.5" height="28" fill="#d4b064"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" text-rendering="geometricPrecision">
+    <text x="67.75" y="17.5" textLength="111.5">OUBA-CLASSMATE</text>
+    <text x="155.75" y="17.5" textLength="16.5" fill="#333" font-weight="bold">82</text>
+  </g>
+</svg>
