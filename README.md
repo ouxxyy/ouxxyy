@@ -139,35 +139,35 @@ gh api -X PUT /user/starred/ouxxyy/ouba-classmate
 
 ### 刺猬关系 · Hedgehog Relationships
 
-一家人吃饭，你习惯挨着谁坐？用几只小动物代表自己和家人，摆出你们平时的样子。试着把自己挪到另一个人身边，看看是什么感觉。要是心里有点别扭，也可以跟 AI 聊聊为什么。<br>
-Who do you usually sit next to at a family dinner? Pick an animal for each of you, then move yours beside someone else. You can talk with the AI about how that feels.
+**「你去跟你爸说。」你也从小听这句话吗？** 试着用小动物做一次家庭排列，按你心里的远近摆出自己和家人。图里的小狐狸代表自己，摆完才发现，连在沙盘上也站在爸妈中间。把它往旁边挪一步，试试那句平时说不出口的「妈，这回你直接跟爸说，好吗？」你也可以跟 AI 聊聊，要是这次不去劝，自己最担心什么。<br>
+“Go tell your dad.” Sound familiar? Try a family constellation board and place everyone where it feels right to you. In this example, the little fox ends up right between its parents. Move it aside and try asking, “Mom, could you tell Dad yourself this time?” You can explore that with the AI, too.
 
 <a href="https://hilingge.redboook.cn/?utm_source=github&amp;utm_medium=profile">
   <picture>
     <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/hedgehog-board-mobile.png">
     <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/hedgehog-board-preview.png">
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/hedgehog-board-mobile.gif">
-    <img src="assets/hedgehog-board-demo.gif" width="100%" alt="沙盘里，小狐狸代表自己。它先挨着妈妈，再挪到爸爸身边。">
+    <img src="assets/hedgehog-board-demo.gif" width="100%" alt="这段家庭排列示例里，小狐狸代表自己，先站在父母中间，再往旁边退开。这次，我想请爸妈直接跟对方说。">
   </picture>
 </a>
 
-[去摆一摆](https://hilingge.redboook.cn/?utm_source=github&utm_medium=profile) · [Try the family board in English](https://hilingge.redboook.cn/en/?utm_source=github&utm_medium=profile)
+[摆摆我和家人的位置](https://hilingge.redboook.cn/?utm_source=github&utm_medium=profile) · [Try the family board in English](https://hilingge.redboook.cn/en/?utm_source=github&utm_medium=profile)
 
 ### 小猫陪你 · Cat Companion
 
-约好见面，对方又临时改时间。你想说的是「下次早点告诉我」，打出来却是「你怎么又临时改时间？」把草稿给小猫看看，它会帮你换个说法。要是今天只想吐槽，也可以直接跟它聊。<br>
-Your plans change at the last minute. You type “Again?” when you mean “Could you let me know a little sooner?” Show the cat your draft for another way to say it, or just tell it why you’re upset.
+**升职了，第一个告诉他，他只回了个「哦」。** 你盼了半年才盼到这天，就想有人替你高兴。小猫在这段对话里先说了「升职快乐」，还提醒你「今晚照样值得庆祝」。等你想回他了，它也能帮你把气头上的「以后不跟你说了」换成「其实就是想让你也替我高兴一下」。<br>
+You finally got promoted. The first person you tell texts back “oh.” The cat hears how long you waited and reminds you that you still have something to celebrate tonight. If you want to tell your partner how you feel, the cat can help you find the words.
 
 <a href="https://redboook.cn/?utm_source=github&amp;utm_medium=profile">
   <picture>
     <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/cat-companion-mobile.png">
     <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/cat-companion-preview.png">
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/cat-companion-mobile.gif">
-    <img src="assets/cat-companion-demo.gif" width="100%" alt="临时改时间让我有点火。小猫帮我写了一条消息，请对方下次提前半小时告诉我。我点了复制。">
+    <img src="assets/cat-companion-demo.gif" width="100%" alt="升职只等来一句「哦」。示例里，小猫先听我说这半年的心情，再帮我起草一条发给伴侣的消息。">
   </picture>
 </a>
 
-[找小猫聊聊](https://redboook.cn/?utm_source=github&utm_medium=profile) · [Talk to the cat in English](https://redboook.cn/en/?utm_source=github&utm_medium=profile)
+[跟小猫说件事](https://redboook.cn/?utm_source=github&utm_medium=profile) · [Talk to the cat in English](https://redboook.cn/en/?utm_source=github&utm_medium=profile)
 
 [联系作者 · Contact the maker](https://albertou.redboook.cn/?utm_source=github&utm_medium=profile&utm_campaign=webapps#contact)
 
