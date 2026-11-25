@@ -27,3 +27,8 @@
 
 ---
 注意：安装方式、依赖要求、模型/API 费用、支持宿主与许可证以各仓库 README 说明为准。
+
+## 在线产品 · Hosted web apps
+- [刺猬关系](https://hilingge.redboook.cn/) / [Hedgehog Relationships](https://hilingge.redboook.cn/en/): 3D family relationship mapping board with optional AI reflection.
+- [小猫陪你](https://redboook.cn/) / [Cat Companion](https://redboook.cn/en/): AI vent chat and a message rewriter for couples.
+- [作者与联系 / Contact the maker](https://albertou.redboook.cn/#contact)

@@ -16,6 +16,15 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+## 在线体验 · Web apps
+
+| 产品 | 可以做什么 | 体验 |
+| --- | --- | --- |
+| 刺猬关系 · Hedgehog Relationships | 把家人摆成一张 3D 关系图，转动视角后与 AI 讨论你的观察。Arrange animal figures on a 3D family board and reflect on what you see. | [中文版](https://hilingge.redboook.cn/?utm_source=github&utm_medium=profile) · [English](https://hilingge.redboook.cn/en/?utm_source=github&utm_medium=profile) |
+| 小猫陪你 · Cat Companion | 想倾诉时和小猫聊聊，想沟通时把一句气话改成能发出去的消息。Talk through a rough day or rewrite a heated text for your partner. | [中文版](https://redboook.cn/?utm_source=github&utm_medium=profile) · [English](https://redboook.cn/en/?utm_source=github&utm_medium=profile) |
+
+[联系作者 · Contact the maker](https://albertou.redboook.cn/?utm_source=github&utm_medium=profile&utm_campaign=webapps#contact)
+
 ## 01 · ouba-classmate · 中文求职与 AI 创作旗舰套件
 
 <a href="https://github.com/ouxxyy/ouba-classmate"><img src="assets/card-suite.svg" width="100%" alt="ouba-classmate：一行安装全套中文求职与 AI 创作 Skills"></a>
