@@ -16,15 +16,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 在线体验 · Web apps
-
-| 产品 | 可以做什么 | 体验 |
-| --- | --- | --- |
-| 刺猬关系 · Hedgehog Relationships | 把家人摆成一张 3D 关系图，转动视角后与 AI 讨论你的观察。Arrange animal figures on a 3D family board and reflect on what you see. | [中文版](https://hilingge.redboook.cn/?utm_source=github&utm_medium=profile) · [English](https://hilingge.redboook.cn/en/?utm_source=github&utm_medium=profile) |
-| 小猫陪你 · Cat Companion | 想倾诉时和小猫聊聊，想沟通时把一句气话改成能发出去的消息。Talk through a rough day or rewrite a heated text for your partner. | [中文版](https://redboook.cn/?utm_source=github&utm_medium=profile) · [English](https://redboook.cn/en/?utm_source=github&utm_medium=profile) |
-
-[联系作者 · Contact the maker](https://albertou.redboook.cn/?utm_source=github&utm_medium=profile&utm_campaign=webapps#contact)
-
 ## 01 · ouba-classmate · 中文求职与 AI 创作旗舰套件
 
 <a href="https://github.com/ouxxyy/ouba-classmate"><img src="assets/card-suite.svg" width="100%" alt="ouba-classmate：一行安装全套中文求职与 AI 创作 Skills"></a>
@@ -141,6 +132,44 @@ npx skills add ouxxyy/ouba-classmate
 # 觉得有用？在终端 1 秒为开源主仓点亮一颗 Star
 gh api -X PUT /user/starred/ouxxyy/ouba-classmate
 ```
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 在线体验 · Web apps
+
+### 刺猬关系 · Hedgehog Relationships
+
+<a href="https://hilingge.redboook.cn/?utm_source=github&amp;utm_medium=profile">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/hedgehog-board-mobile.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/hedgehog-board-preview.png">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/hedgehog-board-mobile.gif">
+    <img src="assets/hedgehog-board-demo.gif" width="100%" alt="产品操作演示：在 3D 沙盘里加入伴侣，再从上方和侧面观察家庭成员的位置。">
+  </picture>
+</a>
+
+用动物代表家人，拖动位置、改变朝向，再和 AI 聊聊你在这张关系图里看到的细节。<br>
+Arrange animal figures on a 3D family board and explore the scene from different angles, on your own or with an AI guide.
+
+[中文体验](https://hilingge.redboook.cn/?utm_source=github&utm_medium=profile) · [Try in English](https://hilingge.redboook.cn/en/?utm_source=github&utm_medium=profile)
+
+### 小猫陪你 · Cat Companion
+
+<a href="https://redboook.cn/?utm_source=github&amp;utm_medium=profile">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/cat-companion-mobile.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/cat-companion-preview.png">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ouxxyy/ouxxyy/main/assets/cat-companion-mobile.gif">
+    <img src="assets/cat-companion-demo.gif" width="100%" alt="产品操作演示：输入一句临时改时间的气话，查看小猫改写的回复并复制传话。">
+  </picture>
+</a>
+
+想倾诉时跟小猫聊聊。想让对方听懂你的请求时，把一句气话改成可以直接复制的消息。<br>
+Talk through a rough day with a cat, or turn a heated remark into a message you can copy and send.
+
+[中文体验](https://redboook.cn/?utm_source=github&utm_medium=profile) · [Try in English](https://redboook.cn/en/?utm_source=github&utm_medium=profile)
+
+[联系作者 · Contact the maker](https://albertou.redboook.cn/?utm_source=github&utm_medium=profile&utm_campaign=webapps#contact)
 
 <a id="author"></a>
 
