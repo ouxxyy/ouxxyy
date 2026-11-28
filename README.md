@@ -1,5 +1,8 @@
 <a href="https://github.com/ouxxyy/ouba-classmate"><img src="assets/header.svg" width="100%" alt="欧八同学 · 把职业价值产品化：职业定位 × AI 杠杆 × 涨薪方法"></a>
 
+我把自己的求职方法做成了一套[开源中文求职工具](https://github.com/ouxxyy/ouba-classmate)。你可以按城市和薪资[找岗位](https://github.com/ouxxyy/job-search)，[对照岗位要求改简历](https://github.com/ouxxyy/jd-resume-match)，[练中文语音面试](https://interview.redboook.cn/)，或在接 Offer 前[查公司背景](https://github.com/ouxxyy/sherlock-company)。<br>
+I build open-source tools for Chinese-speaking job seekers. Use them to shortlist roles, tailor your résumé to a job description, practise interviews in Mandarin, or research an employer before accepting an offer.
+
 <b>9 年网易、搜狐大厂产品经理｜双非普通人，跳槽换行 7 次，涨薪 10 倍｜做过上百次简历与面试优化。致力于把职业价值产品化（职业定位 × AI 杠杆 × 涨薪方法），把真正有效的跳槽涨薪与 AI 创作方法做成免费开源工具。</b><br>
 <b>9-year Product Manager at NetEase &amp; Sohu. 7 career moves, 10× salary growth, 100+ resume &amp; interview reviews. Turning proven career positioning, AI leverage, and creative workflows into free open-source tools.</b>
 
